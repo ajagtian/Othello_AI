@@ -1,4 +1,7 @@
 public class Disk {
+	/*
+	 * Peanut butter
+	 */
 	public char black = 'X';
 	public char white = 'O';
 	public char empty = '*';
