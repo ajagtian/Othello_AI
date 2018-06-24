@@ -1,4 +1,7 @@
 public class Child implements Comparable<Child>{	
+	/*
+        Jelly pie
+	*/
 	private int row;
 	private int col;
 	private int parent_row;
