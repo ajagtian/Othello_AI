@@ -1,4 +1,4 @@
 Othello_AI
 ==========
 
-Human vs Computer Othello playing agent
+Human vs Computer Othello playing agent.
